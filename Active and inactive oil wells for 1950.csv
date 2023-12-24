@@ -1,6 +1,6 @@
 ﻿Well operation month,Operator,Town,Producing Formation,Active Oil Wells,Inactive Oil Wells,Oil Produced bbl,Production Date Entered
 February,Buffalo China. Inc.,BUFFALO,GD,0,3,432,1950
-September,Copper Ridge Oil. Inc.,WEST UNION,DW,28,4,291,1950
+September,Copper Ridge Oil. Inc.,WEST UNION,GE,28,4,291,1950
 November,White. Walter W. & Christina L.,CARROLLTON,GD,3,0,176,1950
 November,Stiegler. Richard M,CHEEKTOWAGA,GD,0,6,160,1950
 April ,Bucher. Charles J,ALLEGANY,GD,10,8,1,1950
@@ -17,7 +17,7 @@ December,Universal Resources Holdings. Incorporated,ARKWRIGHT,GD,31,3,65,1950
 October,Wroblewski. Francis M,COLDEN,GD,22,0,60,1950
 August,Transfuel Resources Co.,ELLINGTON,GD,65,10,0,1950
 June,Perry Energy II,PERRY,GD,4,6,50,1950
-July,Basic Energy Producers. Inc.,CHAUTAUQUA,OD,0,1,38,1950
+July,Basic Energy Producers. Inc.,CHAUTAUQUA,GE,0,1,38,1950
 November,Belden & Blake Corporation,ARKWRIGHT,GD,6,0,17,1950
 July,United States Gypsum Co.,SHELDON,GW,8,5,29,1950
 February,Estate of Gary W. George,BENNINGTON,GD,9,3,34,1950
@@ -113,14 +113,14 @@ November,Seneca Resources Corporation,LEON,GD,7,6,40,1950
 December,O'Shanter Resources.  Inc.,ELLERY,GD,32,3,402,1950
 March,Oil. Gas & Land Services. Inc.,GERRY,GD,0,8,189,1950
 September,Decker. James K. & Tiffany J.,BUSTI,GD,26,0,25,1950
-May,Stein. Paul E. & Sons,CALEDONIA,DW,0,0,344,1950
+May,Stein. Paul E. & Sons,CALEDONIA,GE,0,0,344,1950
 October,Symbol Oil Corp.,BRANT,GD,34,0,532,1950
 October,Seneca Resources Corporation,DAYTON,GD,7,4,9,1950
 November,O'Shanter Resources.  Inc.,NORTH HARMONY,GE,2,5,0,1950
 February,Altimus & Associates,CARROLLTON,GW,7,1,25,1950
 April ,Doolittle. Ruth,YORK,GD,0,9,155,1950
 October,Trahan Petroleum. Inc.,BUSTI,GD,1,5,18,1950
-March,Bounty Holdings. Incorporated,BUSTI,DW,4,7,36,1950
+March,Bounty Holdings. Incorporated,BUSTI,GE,4,7,36,1950
 June,Open Flow Gas Supply Corp.,BRANT,GD,6,2,347,1950
 February,Altimus & Associates,GENESEE,GE,2,5,78,1950
 January,Eastern States Energy. Inc.,LANCASTER,GD,8,7,0,1950
@@ -136,7 +136,7 @@ January,Schreiner Oil and Gas Inc.,HANOVER,GD,43,6,929,1950
 April ,Seibel. William E,LANCASTER,GW,7,13,462,1950
 February,Esterline. Norma K.,CLYMER,GE,12,0,0,1950
 December,Woodward Pipeline. Inc.,EDEN,GD,53,0,45,1950
-November,Seneca Resources Corporation,DAYTON,DW,9,5,0,1950
+November,Seneca Resources Corporation,DAYTON,GE,9,5,0,1950
 October,Seneca Resources Corporation,EDEN,GD,32,23,30,1950
 March,U S Energy Development Corp.,SHERIDAN,GD,62,1,50,1950
 January,Deptuch. Michael Estate,SUMMERHILL,GD,0,5,80,1950
@@ -149,7 +149,7 @@ January,Demambro. Gene Brian,PORTLAND,GD,45,0,450,1950
 January,Campfield. Arthur,HOWARD,GE,9,0,672,1950
 January,Braun. Thomas R. & Judith Ann,MARILLA,GD,23,0,155,1950
 June,Basic Energy Producers. Inc.,PORTLAND,GD,1,0,234,1950
-December,Symbol Oil Corp.,PEMBROKE,DW,7,0,456,1950
+December,Symbol Oil Corp.,PEMBROKE,GE,7,0,456,1950
 November,Whiting Well Partnership,NEWSTEAD,GD,3,1,430,1950
 October,Rudnik. Florian & Carol,MARILLA,GD,9,7,450,1950
 February,Clarion Oil & Gas Corp.,CHAUTAUQUA,GD,5,3,41,1950
@@ -166,5 +166,5 @@ January,Scott. Glenn H.,VILLENOVA,GD,8,1,129,1950
 April ,Cotton Well Drilling Company.  Inc.,WESTFIELD,GD,1,6,192,1950
 June,Renard Drilling Co.,BOLIVAR,GD,6,2,298,1950
 February,Transfuel Resources Co.,SHERIDAN,GD,9,0,31,1950
-November,Subsea Oil & Gas. Inc.,PEMBROKE,OD,3,0,0,1950
+November,Subsea Oil & Gas. Inc.,PEMBROKE,GE,3,0,0,1950
 November,Potter Oil Co.,INDEPENDENCE,GD,26,1,84,1950
